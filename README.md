@@ -5,6 +5,8 @@ Team Leader - Rahul Morabiya (7990363348)
 
 Team Members – Pundrik Shayta, Karm Vyas, Krutagna Kathiya
 
+WORK IS STILL IN PROGRESS AND NOT COMPLETE YET.
+
 Introduction
 
 •Title: Using Satellite Imagery to Predict Yields, Market Prices, and Crop Distribution Patterns in Agriculture.
